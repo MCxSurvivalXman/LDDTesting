@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation designname="DUPLO TYRE Ø46.6"/>
+    <Annotation maingroupid="401"/>
+    <Annotation designname="DUPLO BRICK 2X10"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.764314" sY="1.18649" sZ="0.291522" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="1.85839" ty="0.002949" tz="-1.20162"/>
+    <Box sX="0.764314" sY="1.18649" sZ="0.291522" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-1.85839" ty="-0.002949" tz="-1.20162"/>
+    <Box sX="0.764314" sY="1.18649" sZ="0.291522" angle="148.60029" ax="-0.281085" ay="0.678598" az="-0.678598" tx="-1.31617" ty="1.312" tz="-1.20162"/>
+    <Box sX="0.764314" sY="1.18649" sZ="0.291522" angle="148.60029" ax="-0.281085" ay="-0.678598" az="0.678598" tx="1.312" ty="1.31617" tz="-1.20162"/>
+    <Box sX="0.764314" sY="1.18649" sZ="0.291522" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="-0.002949" ty="1.85839" tz="-1.20162"/>
+    <Box sX="0.764314" sY="1.18649" sZ="0.291522" angle="98.42106" ax="-0.862856" ay="-0.357407" az="0.357407" tx="1.31617" ty="-1.312" tz="-1.20162"/>
+    <Box sX="0.764314" sY="1.18649" sZ="0.291522" angle="90" ax="-1" ay="0" az="0" tx="0.002949" ty="-1.85839" tz="-1.20162"/>
+    <Box sX="0.764314" sY="1.18649" sZ="0.291522" angle="98.42106" ax="-0.862856" ay="0.357407" az="-0.357407" tx="-1.312" ty="-1.31617" tz="-1.20162"/>
+  </Collision>
+  <PhysicsAttributes inertiaTensor="2.2739963,0,0,0,2.2741615,0,0,0,3.58634" centerOfMass="-4.7E-05,0,-1.19943" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2.31948" minY="-2.31933" minZ="-2.40056" maxX="2.31938" maxY="2.31932" maxZ="0.001709"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.31948" minY="-2.31933" minZ="-2.40056" maxX="2.31938" maxY="2.31932" maxZ="0.001709"/>
+  </GeometryBounding>
+</LEGOPrimitive>

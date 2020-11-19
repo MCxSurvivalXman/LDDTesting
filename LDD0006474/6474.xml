@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6474"/>
+    <Annotation designname="DUPLO ROOF TILE 2X2X1 1/2"/>
+    <Annotation maingroupid="401"/>
+    <Annotation maingroupname="BRICKS" />
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="1.58834" sY="0.470176" sZ="1.59001" angle="0" ax="0" ay="1" az="0" tx="0.801649" ty="0.480176" tz="0.800011"/>
+    <Box sX="1.58834" sY="1.24612" sZ="0.634225" angle="40.05588" ax="-1" ay="0" az="0" tx="0.801649" ty="1.50397" tz="1.09794"/>
+    <Box sX="1.58834" sY="1.43" sZ="0.781343" angle="0" ax="0" ay="1" az="0" tx="0.801649" ty="1.44" tz="-0.008657"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.8" ty="2.88" tz="-0.8">
+      35:1:1,29:0,23:4:1,29:0,35:2:1,29:0,23:4:1,29:0,35:1:1,
+      29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,
+      23:4:1,29:0,31:4:1,29:0,23:4:1,29:0,31:4:1,29:0,23:4:1,
+      29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,
+      35:1:1,29:0,23:4:1,29:0,35:2:1,29:0,23:4:1,29:0,35:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="8" angle="0" ax="0" ay="1" az="0" tx="-0.8" ty="0" tz="-0.8">
+      22:1:1,29:0,22:2:1,29:0,22:2:1,29:0,22:2:1,29:0,22:1:1,
+      29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,
+      22:2:1,29:0,32:4:1,29:0,23:4:1,29:0,32:4:1,29:0,22:2:1,
+      29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,
+      22:2:1,29:0,23:4:1,29:0,37:4:1,29:0,23:4:1,29:0,22:2:1,
+      29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,
+      22:2:1,29:0,32:4:1,29:0,23:4:1,29:0,32:4:1,29:0,22:2:1,
+      29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,29:0,
+      22:1:1,29:0,22:2:1,29:0,22:2:1,29:0,22:2:1,29:0,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.7829907,0,0,0,1.7066668,0,0,0,1.7829907" centerOfMass="0.8,1.67002,0.8" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.8" minY="0" minZ="-0.8" maxX="2.4" maxY="3.34004" maxZ="2.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.796689" minY="0" minZ="-0.8" maxX="2.4" maxY="3.34004" maxZ="2.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

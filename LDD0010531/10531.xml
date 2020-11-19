@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation designname="FORK"/>
+    <Annotation maingroupid="401"/>
+    <Annotation maingroupname="BRICKS" />
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Collision>
+    <Box sX="0.16549" sY="1.32666" sZ="0.16549" angle="0" ax="0" ay="1" az="0" tx="0" ty="-2.42183" tz="0"/>
+    <Box sX="0.346048" sY="0.073315" sZ="0.346048" angle="0" ax="0" ay="1" az="0" tx="0" ty="-1.07238" tz="0"/>
+    <Box sX="0.716577" sY="0.152677" sZ="0.164007" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.011746" tz="0"/>
+    <Box sX="0.346048" sY="0.030113" sZ="0.346048" angle="47.80639" ax="0" ay="0" az="-1" tx="-0.566286" ty="-0.824902" tz="0"/>
+    <Box sX="0.346048" sY="0.058844" sZ="0.346048" angle="90" ax="0" ay="0" az="1" tx="-0.808024" ty="-0.103428" tz="0"/>
+    <Box sX="0.346048" sY="0.057733" sZ="0.346048" angle="90" ax="0" ay="0" az="1" tx="0.813721" ty="-0.103428" tz="0"/>
+    <Box sX="0.346048" sY="0.030113" sZ="0.346048" angle="128.25115" ax="0" ay="0" az="-1" tx="0.591171" ty="-0.824902" tz="0"/>
+    <Box sX="0.16549" sY="0.566412" sZ="0.113428" angle="5.74224" ax="-1" ay="0" az="0" tx="0" ty="-5.15121" tz="0.030979"/>
+    <Box sX="0.16549" sY="0.696738" sZ="0.113428" angle="21.85554" ax="-1" ay="0" az="0" tx="0" ty="-6.33918" tz="0.301962"/>
+    <Box sX="0.16549" sY="0.696738" sZ="0.113428" angle="21.85554" ax="-1" ay="0" az="0" tx="-0.875137" ty="-6.33918" tz="0.301962"/>
+    <Box sX="0.16549" sY="0.566412" sZ="0.113428" angle="5.74224" ax="-1" ay="0" az="0" tx="-0.875137" ty="-5.15121" tz="0.030979"/>
+    <Box sX="0.16549" sY="0.696738" sZ="0.113428" angle="21.85554" ax="-1" ay="0" az="0" tx="0.882456" ty="-6.33918" tz="0.301962"/>
+    <Box sX="0.16549" sY="0.566412" sZ="0.113428" angle="5.74224" ax="-1" ay="0" az="0" tx="0.882456" ty="-5.15121" tz="0.030979"/>
+    <Box sX="0.992064" sY="0.176655" sZ="0.127315" angle="0" ax="0" ay="1" az="0" tx="0" ty="-4.29956" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Slider type="2003" length="1.47524" cylindrical="1" startCapped="1" endCapped="1" angle="180" ax="-0.707107" ay="-0.707107" az="0" tx="-0.737619" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="4.7655703,0,0,0,0.51078049,0,0,0,5.0833173" centerOfMass="0,-3.35594,0.156557" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.11481" minY="-7.09855" minZ="-0.381542" maxX="1.11481" maxY="0.386674" maxZ="0.694656"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.11481" minY="-7.09855" minZ="-0.381542" maxX="1.11481" maxY="0.386674" maxZ="0.694656"/>
+  </GeometryBounding>
+</LEGOPrimitive>
